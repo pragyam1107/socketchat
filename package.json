@@ -1,0 +1,18 @@
+{
+  "name": "socketchat",
+  "version": "1.0.0",
+  "description": "chatting backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "pragya mishra",
+  "license": "ISC",
+  "dependencies": {
+    "clusterws": "^3.3.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "node-rsa": "^1.0.5",
+    "socket.io": "^2.2.0"
+  }
+}
